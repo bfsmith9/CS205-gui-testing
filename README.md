@@ -1,4 +1,4 @@
-# gui-testing
+# cs205-gui-testing
 Testing Python GUI for CS205
 
 Trying to see how I can do something with a GUI in Python.
